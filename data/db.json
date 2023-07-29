@@ -1,0 +1,39 @@
+{
+	"houses": [
+	  {
+		"id": 1,
+		"type": "H1",
+		"cash": 5000000,
+		"location": "The Cotswolds, England",
+		"status":"for sale"
+	  },
+	  {
+		"id": 2,
+		"type": "H2",
+		"cash": 5000,
+		"location": "Cornwall, England",
+		"status":"for rent"
+	  },
+	  {
+		"id": 3,
+		"type": "H3",
+		"cash": 2000000,
+		"location": "West Coast of Scotland",
+		"status":"for sale"
+	  },
+	  {
+		"id": 4,
+		"type": "H4",
+		"cash": 3000,
+		"location": "County Mayo, Ireland",
+		"status":"for rent"
+	  },
+	  {
+		"id": 5,
+		"type": "H5",
+		"cash": 1500000,
+		"location": "Exmoor, England",
+		"status":"for sale"
+	  }
+	]
+}
